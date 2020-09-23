@@ -1,0 +1,16 @@
+{
+  "name": "IBC Launcher",
+  "version": "0.0.0",
+  "description": "IBC Launcher Api DOCS for server",
+  "title": "IBC Launcher Server API",
+  "url" : "",
+  "order": [
+    "Error",
+    "Define",
+    "PostTitleAndError",
+    "PostError"
+  ],
+  "header": {
+    "title": "IBC Launcher"
+  }
+}

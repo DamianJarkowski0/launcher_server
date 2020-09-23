@@ -1,0 +1,25 @@
+{
+    "ENV": "PROD",
+    "PROTOCOL": "http",
+    "IP": "localhost",
+    "PORT": "30092",
+    "SSL": {
+        "KEY": "privkey.pem",
+        "CERT": "cert.pem"
+    },
+    "JWT": {
+        "PUBLICKEY": "public.key",
+        "ALGORITHM": "RS256"
+    },
+    "MAINDATABASE": "launcher",
+    "DATABASES": [
+        {
+            "NAME": "",
+            "DIALECT": "",
+            "HOST": "",
+            "PASSWORD": "",
+            "USER": "",
+            "PORT": ""
+        }
+    ]
+}
